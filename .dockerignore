@@ -1,0 +1,6 @@
+.git
+.dockerignore
+.env
+toy/node_modules/
+toy/vendor/bundle/
+toy/tmp/
